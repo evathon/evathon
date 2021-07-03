@@ -78,6 +78,7 @@ body {
     letter-spacing: 4px;
     border-radius: 0;
     font-family: Montserrat, sans-serif;
+    font-weight: bold ;
   }
   .navbar-transparent{
     background-color: rgb(255, 255, 255,0);
