@@ -18,7 +18,7 @@ body {
     color: #303030;
     font-weight: 400;
     margin-bottom: 30px;
-  }  
+  }
   .jumbotron {
     background-color: #212529;
     color: #fff;
@@ -39,17 +39,17 @@ body {
     margin-bottom: 20px;
     color: #061441;
     border: 1px solid #061441 ;
-
+    
     /* border: none;
        border-radius: 6px;
     */
     /* background-color: #17a2b8;
        background-color: #184aab;
     */
-    
+
     /* Slow Shadow Effect*/
     transition: box-shadow 0.5s;
-     
+
   }
   .faq-card hr {
     border-width: 0.2rem;
@@ -59,7 +59,7 @@ body {
   .faq-card:hover {
     box-shadow: 5px 0px 20px rgba(0,0,0, .8);
     /* box-shadow:4px 4px 7px rgb(32, 32, 32);  */
-    
+
   }
 
   .faq-card p {
@@ -70,7 +70,7 @@ body {
 
   .navbar {
     margin-bottom: 0;
-    
+
     z-index: 9999;
     border: 0;
     font-size: 12px !important;
@@ -117,7 +117,7 @@ body {
     0% {
       opacity: 0;
       transform: translateY(70%);
-    } 
+    }
     100% {
       opacity: 1;
       transform: translateY(0%);
@@ -127,7 +127,7 @@ body {
     0% {
       opacity: 0;
       -webkit-transform: translateY(70%);
-    } 
+    }
     100% {
       opacity: 1;
       -webkit-transform: translateY(0%);
