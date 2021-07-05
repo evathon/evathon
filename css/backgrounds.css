@@ -1,5 +1,5 @@
 .bg-dark{
-    background-color: #212529;  
+    background-color: #212529;
   }
 .title1{
     font-family: 'Source Code Pro', monospace;
@@ -11,15 +11,15 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-}    
+}
  .bg-jumbo{
-  background-image: url(../img/bg.gif);
+  background-image: url('https://media.giphy.com/media/lbcLMX9B6sTsGjUmS3/source.gif');
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  
-  
+
+
 }
 .bg-about-2{
   background-color: #dcdfe8;
